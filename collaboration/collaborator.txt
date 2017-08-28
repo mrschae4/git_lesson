@@ -1,7 +1,7 @@
 
-# file used by the collaborator
+# Collaboration
 
-edit made by the owner
+An edit made by the collaborator.
 
 I am a collaborator.
 
