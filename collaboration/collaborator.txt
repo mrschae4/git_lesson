@@ -1,4 +1,8 @@
 
+# file used by the collaborator
+
+edit made by the owner
+
 I am a collaborator.
 
 This is a change I am making on a new branch and not directly on the master branch.
